@@ -12,6 +12,7 @@ Basic Algorithms of machine learning were implemented in python using jupyter no
       <li>Support Vector Machines</li>
       <li>Naives Bayes Classifier</li>
       <li>Decision Tree</li>
+      <li>Random Forest</li>
     </ul>
    </li>
    <li>
@@ -19,7 +20,7 @@ Basic Algorithms of machine learning were implemented in python using jupyter no
     <ul style="list-style-type:none">
       <li>K-Means Clustering</li>
       <li>Mean-Shift Classifier</li>
-      <li>Random Forest</li>
+      <li>Principal COmponent Analysis (PCA)</li>
     </ul>
    </li>
   
